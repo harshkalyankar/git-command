@@ -1,0 +1,6 @@
+hello there i have successfully executed the command 
+1. git add 
+2. git commit -m "msg here "
+3. git remote add -u origin master   -- ( master -> branch name ) 
+3. git remote add -m origin master   -- ( varch wrong aahe command ) 
+4. git add -u origin master 
