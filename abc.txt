@@ -1,4 +1,1 @@
-hello there this is harsh 
-previously i have executed a command wrong 
-which was git remote add origin <paste github https url > 
-where by mistakely i have put a github token , that makes an unsolvable mess so i have created this instance for practice 
+hi there i am now in singapore ec2 writing some content in abc.txt file , i hope you will like it 
